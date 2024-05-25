@@ -7,7 +7,7 @@ You can use any model that understands russian language. Also, max_new_tokens an
 
 This is initial step of project, and more steps will be done:
 - [x] RAG + LLM development
-- [ ] Launching in telegram
+- [ ] Launching as telegram bot
 - [ ] Kazakh language maintenance
 - [ ] ......
 
