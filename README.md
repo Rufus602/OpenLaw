@@ -6,8 +6,8 @@ Here you can find db which used for project: https://drive.google.com/drive/fold
 You can use any model that understands russian language. Also, max_new_tokens and max_length must reduced to model requirements
 
 This is initial step of project, further development:
-### TO DO
-- [ ] RAG development
+### TO DO:
+- [x] RAG + LLM development
 - [ ] Launching in telegram
 
 
